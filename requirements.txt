@@ -1,0 +1,42 @@
+# ---- LangChain Core ----
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# ---- LangGraph ----
+langgraph
+
+# ---- Groq ----
+langchain-groq
+groq
+
+# ---- Tavily Web Search ----
+tavily-python
+
+# ---- PDF Loading ----
+pypdf
+
+# ---- Chroma Vector Store ----
+langchain-chroma
+chromadb
+
+# ---- Hugging Face Embeddings ----
+langchain-huggingface
+sentence-transformers
+transformers
+huggingface-hub
+
+# ---- Machine Learning ----
+numpy
+scikit-learn
+matplotlib
+
+# ---- Data Validation ----
+pydantic
+
+# ---- Environment Variables ----
+python-dotenv
+
+# ---- Eval ----
+ragas 
+datasets
